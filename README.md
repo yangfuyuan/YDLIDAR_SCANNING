@@ -5,7 +5,7 @@ YDLIDAR_SCANNING is a client for YDLIDAR LIDAR
 <p align="middle">
     <a href="https://github.com/yangfuyuan
     " target="_blank"><img src="image.png"
-    alt="IMAGE ALT TEXT HERE" width="881" height="611" border="10"/></a>
+    alt="IMAGE ALT TEXT HERE" width="1920" height="1080" border="10"/></a>
 </p>
 
-# Downloads (release 1.1.3)
+# Downloads (release 2.3.0)
