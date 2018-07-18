@@ -8,4 +8,4 @@ YDLIDAR_SCANNING is a client for YDLIDAR LIDAR
     alt="IMAGE ALT TEXT HERE" width="960" height="540" border="10"/></a>
 </p>
 
-# Downloads (release 2.4.0)
+# Downloads (release 2.7.0)
